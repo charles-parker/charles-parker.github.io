@@ -7,9 +7,10 @@ layout: default
 
   <main class="page-content" aria-label="Content">
   <section class="chapters cf">
+    <h1 class="type-header">Professional Experience</h1>
     <div class="wrapper flex-row">
-    {% assign posts = site.posts | where_exp: "item", "item.tags contains 'Hobby'" %}
-    {% for post in posts limit:5 %}
+    {% assign posts = site.posts | where_exp: "item", "item.tags contains 'Professional'" %}
+    {% for post in posts %}
           <div class="chapter">
             <a href="{{post.url | prepend: site.baseurl}}">
                 {% if post.img %}
@@ -25,12 +26,26 @@ layout: default
         </div>
     {% endfor %}
     </div>
-      <div class="wrapper flex-row">
-      {{ content }}
-      </div>
+    <h1 class="type-header">Personal Projects</h1>
+    <div class="wrapper flex-row">
+    {% assign posts = site.posts | where_exp: "item", "item.tags contains 'Personal'" %}
+    {% for post in posts %}
+          <div class="chapter">
+            <a href="{{post.url | prepend: site.baseurl}}">
+                {% if post.img %}
+                    <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+                {% endif %}
+            </a>
+            <a href="{{post.url | prepend: site.baseurl}}">
+                <div class="chapter_inner">
+                    <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
+                    <h3 class="chapter_title">{{post.title}}</h3>
+                </div>
+            </a>
+        </div>
+    {% endfor %}
+    </div>
   </section>
   </main>
-
-  {% include pagination.html %}
 
   {% include footer.html %}
