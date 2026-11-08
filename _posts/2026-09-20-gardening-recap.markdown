@@ -20,6 +20,7 @@ tag: [Hobby, Personal]
 - Cilantro
 
 Add an image like this
-![Three Sisters Garden Plot](/assets/images/garden-2.jpg)
+
+![Three Sisters Garden Plot](/assets/img/garden-2.jpg)
 
   [What are your goals for next year?]
