@@ -4,7 +4,7 @@ title: "NWWHC Poster Presentation"
 img: poster-presentation.jpg # Add image post (optional)
 date: 2025-05-15 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Academic, Research, Presentation, Publication]
+tag: [Professional, Academic, Research, Presentation, Publication]
 ---
 # Does Quantitative Microbiome Profiling Alter Interpretation of the Urinary Microbiome?
 - Compared traditional and quantitative microbiome profiling (QMP) methods using diversity and differential-
