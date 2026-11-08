@@ -17,6 +17,7 @@ layout: default
 
     <div class="entry_content">
       {{page.content | markdownify}}
+      {% include carousel.html height="50" unit="%" duration="7" number="page.title" %}
     </div>
     
     <div class="post_wrapper">
