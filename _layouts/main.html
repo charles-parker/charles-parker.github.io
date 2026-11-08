@@ -7,6 +7,10 @@ layout: default
 
   <main class="page-content" aria-label="Content">
   <section class="chapters cf">
+    {% assign posts = site.posts | where_exp: "item", "item.tags contains 'Hobby'" %}
+    {% for post in posts limit:5 %}
+        {{ post.title }}
+    {% endfor %}
       <div class="wrapper flex-row">
       {{ content }}
       </div>
