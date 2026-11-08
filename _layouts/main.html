@@ -7,10 +7,24 @@ layout: default
 
   <main class="page-content" aria-label="Content">
   <section class="chapters cf">
+    <div class="wrapper flex-row">
     {% assign posts = site.posts | where_exp: "item", "item.tags contains 'Hobby'" %}
     {% for post in posts limit:5 %}
-        {{ post.title }}
+          <div class="chapter">
+            <a href="{{post.url | prepend: site.baseurl}}">
+                {% if post.img %}
+                    <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+                {% endif %}
+            </a>
+            <a href="{{post.url | prepend: site.baseurl}}">
+                <div class="chapter_inner">
+                    <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
+                    <h3 class="chapter_title">{{post.title}}</h3>
+                </div>
+            </a>
+        </div>
     {% endfor %}
+    </div>
       <div class="wrapper flex-row">
       {{ content }}
       </div>
