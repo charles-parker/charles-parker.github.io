@@ -10,8 +10,8 @@ url: "https://charles-parker.github.io/" # the base hostname & protocol for your
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: "Charles Parker"
+banner-desc: "Portfolio"
 
 # Author settings
 author-pic: charles-grad-square.jpg # your photo
