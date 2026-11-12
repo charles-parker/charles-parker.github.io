@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SQL Coursera Certification"
-img: sql.png # Add image post (optional)
+img: sql_lite.jpeg # Add image post (optional)
 date: 2026-11-09 12:53:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Professional, Academic, Education]
