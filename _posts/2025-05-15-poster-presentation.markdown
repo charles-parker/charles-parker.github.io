@@ -12,3 +12,5 @@ abundance analyses of urinary microbiome data from pre- and post-menopausal wome
 
 - Evaluated alpha/beta diversity and differential abundance using statistical testing and DESeq; QMP produced
 similar diversity results but altered the identification and interpretation of significant taxa, including Lactobacilli.
+
+I presented this poster as first author at NW Women's Health & Sex/Gender Differences Research Conference in May 2025 at OHSU Portland, OR
