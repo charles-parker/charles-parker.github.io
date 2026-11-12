@@ -4720,6 +4720,11 @@ cite {
           animation-delay: 0.75s;
 }
 
+.entry_content img {
+  width:fit-content;
+  height: auto;
+}
+
 @-webkit-keyframes fadeInDown {
   from {
     opacity: 0;

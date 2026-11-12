@@ -7,7 +7,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Hobby, Personal]
 ---
 # Running!
-I've been running consistently since September 2024. [Talk about what you enjoy or something]
+I started distsnce running during the start of my masters program. I was inspired by my intro to public health class where I learned that sedentary habits were extremely harmful to overall health. I tried different workouts, but struggled to stay consistent. Through running, I found a great community and was able to share the love of running with others.
 As of November 7th, 2026, I have logged 940 miles running!
 
 # Races
