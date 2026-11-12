@@ -11,12 +11,15 @@ I included different examples of code from projects over the years. I included d
 that I am not able to provide code for work that I have done in the Lab, but the code that I provided here is of my own work and from different class projects.
 
 # R
-<a href="/assets/R_code_examples/combine_datasets.html" target="_blank" rel="noopener noreferrer">R </a>
-
+<a href="/assets/R_code_examples/combine_datasets.html" target="_blank" rel="noopener noreferrer"> HRS Combined Dataset R Code Example </a>
+\n
+<a href="/assets/R_code_examples/create_frailty.html" target="_blank" rel="noopener noreferrer"> Create Frailty R Code Example </a>
+\n
+<a href="/assets/R_code_examples/make_frailty_tables.html" target="_blank" rel="noopener noreferrer"> Make Pub-Ready Tables R Code Example </a>
 # SAS
-[SAS Data Cleaning Code Example](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/sas_code_examples/data_cleaning.sas)
-[SAS Combine Data Sets Code Example](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/sas_code_examples/combine_rand_tracker.sas)
+[SAS Data Cleaning Code Example](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/sas_code_examples/data_cleaning.sas) \n 
+[SAS Combine Data Sets Code Example](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/sas_code_examples/combine_rand_tracker.sas) \n
 # Python
-[Main Python File Code Example](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/main.py)
-[Valid Python File Code](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/valid.py)
-[List Python File Code](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/list.py)
+[Main Python File Code Example](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/main.py) \n
+[Valid Python File Code](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/valid.py) \n 
+[List Python File Code](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/list.py) \n
