@@ -22,6 +22,6 @@ that I am not able to provide code for work that I have done in the Lab, but the
 [Valid Python File Code](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/valid.py) <br>
 [List Python File Code](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/list.py) <br>
 # C++
-[Course C++ Code Example](https://github.com/charles-parker/charles-parker.github.io/tree/master/assets/c_plus_plus_code_example/course.cpp)
-[Main Function Code Example](https://github.com/charles-parker/charles-parker.github.io/tree/master/assets/c_plus_plus_code_example/main.cpp)
-[Menu Function Code Example](https://github.com/charles-parker/charles-parker.github.io/tree/master/assets/c_plus_plus_code_example/menu.cpp)
+[Course C++ Code Example](https://github.com/charles-parker/charles-parker.github.io/tree/master/assets/c_plus_plus_code_example/course.cpp) <br>
+[Main Function Code Example](https://github.com/charles-parker/charles-parker.github.io/tree/master/assets/c_plus_plus_code_example/main.cpp) <br>
+[Menu Function Code Example](https://github.com/charles-parker/charles-parker.github.io/tree/master/assets/c_plus_plus_code_example/menu.cpp) <br>
