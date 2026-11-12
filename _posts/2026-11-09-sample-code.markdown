@@ -7,7 +7,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Professional, Academic, Education]
 ---
 
-I included different examples of code from projects over the years. I included different examples of coding languages and for different types of projects. Note
+I included different examples of code from my various projects. Note
 that I am not able to provide code for work that I have done in the Lab, but the code that I provided here is of my own work and from different class projects.
 
 # R
