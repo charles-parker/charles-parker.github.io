@@ -4636,7 +4636,7 @@ cite {
   text-align: center;
   text-transform: uppercase;
   font-size: 1.2rem;
-  color: #ffffff;
+  color: #0d0d0d;
 }
 
 .container_contact .form_title::before, .container_contact .form_title::after {
