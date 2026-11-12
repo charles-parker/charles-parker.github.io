@@ -4023,6 +4023,7 @@ cite {
   vertical-align: middle;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1.0) 50%, transparent 100%);
 }
 
 .chapters .chapter img:hover {
@@ -4721,7 +4722,7 @@ cite {
 }
 
 .entry_content img {
-  width:fit-content;
+  width:80%;
   height: auto;
 }
 
