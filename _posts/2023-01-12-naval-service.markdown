@@ -7,6 +7,6 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Professional]
 ---
 
-![USNS Comfort NYC](/assets/img/comfort.png)
+![USNS Comfort NYC](/assets/img/comfort.png){width = "50%', height = "50%"}
 
 ![NYC Deployment](/assets/img/nyc.jpg)
