@@ -8,5 +8,6 @@ tag: [Professional]
 ---
 
 ![USNS Comfort NYC](/assets/img/comfort.png){width = "50%', height = "50%"}
+<img src = "/assets/img/comfort.png" style = "width: 50%; height: auto">
 
 ![NYC Deployment](/assets/img/nyc.jpg)
