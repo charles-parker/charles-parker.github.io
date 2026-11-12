@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sample Code"
-img:  # Add image post (optional)
+img:  matrix.jpeg # Add image post (optional)
 date: 2026-11-09 12:53:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Professional, Academic, Education]
