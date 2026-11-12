@@ -19,7 +19,5 @@ I've always thought that I did not have a green thumb, but thanks to the Seed Li
 - Basil
 - Cilantro
 
-Add an image like this
-
 ![Three Sisters Garden Plot](/assets/img/garden-2.jpg)
 
