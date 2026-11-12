@@ -8,5 +8,4 @@ tag: [Professional, Academic, Education]
 ---
 
 I am currently taking a SQL Data Analytic Certificate through Coursera and UC Davis as a way to keep my SQL skills current. This course uses SQLite and have gone 
-deeper in sub-queries, joining tables, and use SQL Queries to support business analysts. I choose this course because I wanted to get a more detailed understanding
-of how to write more effective queries than what I was currently doing from my masters program. 
+deeper in sub-queries, joining tables, and use SQL Queries to support business analysts. I chose this course because I wanted to improved my ability to write complex SQL queries. 
