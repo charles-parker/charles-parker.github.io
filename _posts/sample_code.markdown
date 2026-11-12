@@ -1,12 +1,17 @@
 ---
 layout: post
-title: "SQL Coursera Certification"
-img: sql.png # Add image post (optional)
+title: "Sample Code"
+img:  # Add image post (optional)
 date: 2026-11-09 12:53:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Professional, Academic, Education]
 ---
 
-I am currently taking a SQL Data Analytic Certificate through Coursera and UC Davis as a way to keep my SQL skills current. This course uses SQLite and have gone 
-deeper in sub-queries, joining tables, and use SQL Queries to support business analysts. I choose this course because I wanted to get a more detailed understanding
-of how to write more effective queries than what I was currently doing from my masters program. 
+I included different examples of code from projects over the years. I included different examples of coding languages and for different types of projects. Note
+that I am not able to provide code for work that I have done in the Lab, but the code that I provided here is of my own work and from different class projects.
+
+# R
+
+# SAS
+
+# Python
