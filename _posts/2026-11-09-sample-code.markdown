@@ -15,4 +15,6 @@ that I am not able to provide code for work that I have done in the Lab, but the
 # SAS
 
 # Python
-[Python](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/main.py)
+[Main Python File Code Example](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/main.py)
+[Valid Python File Code](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/valid.py)
+[List Python File Code](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/list.py)
