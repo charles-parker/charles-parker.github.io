@@ -15,4 +15,4 @@ that I am not able to provide code for work that I have done in the Lab, but the
 # SAS
 
 # Python
-[View Python](/assets/python_examples/main.py)
+[Python](https://github.com/charles-parker/charles-parker.github.io/blob/master/assets/python_examples/main.py)
