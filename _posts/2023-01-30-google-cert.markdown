@@ -8,4 +8,4 @@ tag: [Professional, Academic, Education]
 ---
 I completed this program in part with the Skillbridge and Hiring our heroes when I was separated from the Navy. The certification consisted of learning MySql, Tableau, basic data analytics with Google Sheets. 
 
-<embed src = "/assets/img/google_analytic_cert.pdf">
+<img src = "/assets/img/google_analytic_cert.png">
